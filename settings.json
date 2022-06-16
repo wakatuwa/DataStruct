@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "cstdlib": "c"
+    },
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": "true",
+    "editor.fontSize": 16
+}
